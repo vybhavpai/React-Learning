@@ -12,3 +12,4 @@ My experiments with React framework, this is the path I followed:
     One nice thing about the Tutorial was it taught how to use a cluster on the cloud to store all your data.
     
     **Important** to note that there is an [updated version](https://www.youtube.com/watch?v=mrHNSanmqQ4) of the tutorial, maybe you can check that out. 
+5. May 19, 2021: After learning a bit about MERN, I started exploring Javascript, Node.js in particular. Followed [this](https://www.youtube.com/watch?v=TlB_eWDSMt4) tutorial on Node.
