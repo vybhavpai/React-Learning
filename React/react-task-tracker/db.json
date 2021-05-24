@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Birthday Me",
+      "day": "May 12th of 2021",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Birthday Her",
+      "day": "June 11th of 2021",
+      "reminder": false
+    },
+    {
+      "text": "Birthday Mom",
+      "day": "July 2nd of 2021",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Birthday Anna",
+      "day": "September 20th of 2021",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
